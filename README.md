@@ -1,5 +1,5 @@
 # MDoll
-The animated feature film by M dot Strange
+The animated feature film by Imagination Rabbit
 
 ![](https://github.com/mdotstrange/MDoll/raw/main/_images/MdollLogo1.png)
 
